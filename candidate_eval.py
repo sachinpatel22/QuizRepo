@@ -219,7 +219,7 @@ def ensure_inputs_exist():
 
 
 def call_gemini():
-    api_key = "AIzaSyDYwtRxUNIj-AKFsjxtexd-cNnrf771yLo" #os.getenv("GEMINI_API_KEY")
+    api_key = "API-Key" #os.getenv("GEMINI_API_KEY")
     if not api_key:
         raise EnvironmentError("GEMINI_API_KEY is not set in your environment.")
 
