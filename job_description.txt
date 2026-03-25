@@ -1,0 +1,8 @@
+Senior Python Platform Engineer
+
+Requirements:
+- 7+ years of Python backend development
+- Strong system design and architecture experience
+- Experience leading engineering teams or mentoring developers
+- Experience with APIs, async programming, and cloud platforms
+- Nice to have: healthcare domain experience, CI/CD, Kubernetes

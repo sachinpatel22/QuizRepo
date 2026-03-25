@@ -1,0 +1,5 @@
+1. What is a decorator in Python?
+2. What is the GIL?
+3. What is __init__?
+4. What is async in Python?
+5. Explain how you would design a scalable backend system.

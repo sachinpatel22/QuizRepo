@@ -1,0 +1,5 @@
+1. A decorator wraps or modifies another function.
+2. GIL means Global Interpreter Lock in CPython.
+3. __init__ initializes object state when an object is created.
+4. async is for asynchronous programming and non-blocking workflows.
+5. I would use APIs, queues, caching, logging, and split services, but I have not led the architecture for a large production system.
